@@ -1,0 +1,35 @@
+.col.qr-code-col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-fluid {
+    height: 100vh;
+    display: flex;
+    background: #d6e3ed;
+}
+
+#QRcodeCard {
+    border-radius: 20px;
+}
+
+#qr-code-img {
+    margin: 14px 0 0 0;
+    border-radius: 14px;
+}
+
+.card-title {
+    font-weight: 600;
+    font-size: 17px;
+    text-align: center;
+    line-height: 24px;
+    word-spacing: 3px;
+}
+
+.card-text {
+    font-size: 13px;
+    text-align: center;
+    line-height: 20px;
+    color: grey;
+}
